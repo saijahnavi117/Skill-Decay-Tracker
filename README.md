@@ -27,8 +27,6 @@ Skill Decay Tracker is a web application that helps users track their skills, mo
 
 ---
 
----
-
 ## ⚙️ How to Run Locally
 ```bash
 git clone https://github.com/saijahnavi117/Skill-Decay-Tracker.git
